@@ -336,3 +336,7 @@ header.masthead p {
   background-image: url("../img/rails.png");
   background-size: cover;
 }
+
+.self-photo {
+  border: 5px solid white;
+}
